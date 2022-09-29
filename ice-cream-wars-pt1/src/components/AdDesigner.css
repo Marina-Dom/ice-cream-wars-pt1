@@ -1,0 +1,14 @@
+.ad-container{
+    width: 300px;
+    height: 200px;
+    border: solid 1px black;
+    text-align: center;
+}
+
+/* .flavor-button{
+    margin-right: 10px;
+} */
+
+.AdDesigner{
+    margin:30px;
+}
